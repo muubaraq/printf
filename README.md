@@ -53,7 +53,7 @@ int main(void)
 	char *str;
 
 	str = "school";
-	 = _printf("%r\n", "Alx"); /*expected: xlA*/
+        a = _printf("%r\n", "Alx"); /*expected: xlA*/
 	printf("--->%d\n", a); /*expected: 10*/
 
 	b = _printf("%r\n", str); /*expected: loohcs*/
