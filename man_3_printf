@@ -30,7 +30,7 @@ To use _printf,  you have to use the following key characters preceeded by % sym
 ### RETURN VALUES
 The _printf() function returns an integer representing the number of symbols
 printed not counting \\0 for the string.
-***
+
 No known bugs.
 
 ### AUTHOR
