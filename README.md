@@ -48,7 +48,7 @@ The available conversion specifiers are:
 
 int main(void)
 {
-	int ;
+	int a;
 	int b;
 	char *str;
 
